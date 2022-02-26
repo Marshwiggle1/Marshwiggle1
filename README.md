@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kate
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...html & CSS
+- 🌱 I’m currently learning ...html CSS & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
